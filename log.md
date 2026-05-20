@@ -3,3 +3,4 @@
 17 May 2026 — Completed Git branching session. Catch-up session done.
 18 May 2026 - Installed Obsidian and Anki. Learned VS Code shortcuts and integrated terminal. First Python script ran.
 20 May 2026 — Learned environment variables, .env files, python-dotenv, and .gitignore.
+20 May 2026 — Built GitHub profile README. Profile now live.
